@@ -1,0 +1,9 @@
+{
+  "name": "example-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "node -e 'require(\"./\").sayHelloAsync({})'"
+  }
+}
